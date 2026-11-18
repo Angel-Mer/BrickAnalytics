@@ -1,0 +1,201 @@
+registro_id,set_id,nombre,tematica,piezas,lanzamiento,antiguedad,estado,precio_original,precio_reventa,rentabilidad
+1,10294,Titanic,Icons,9090,2021,5,Retirado,19561.24,30538.2,56.12
+2,10294,Titanic,Icons,9090,2021,5,Disponible,19331.21,26577.68,37.49
+3,10294,Titanic,Icons,9090,2021,5,Retirado,19415.71,28816.8,48.42
+4,10294,Titanic,Icons,9090,2021,5,Retirado,19238.89,32458.18,68.71
+5,10294,Titanic,Icons,9090,2021,5,Retirado,19327.29,32950.03,70.48
+6,10294,Titanic,Icons,9090,2021,5,Disponible,19312.58,26205.22,35.69
+7,10294,Titanic,Icons,9090,2021,5,Disponible,19341.4,23321.95,20.58
+8,10294,Titanic,Icons,9090,2021,5,Retirado,19260.23,28064.33,45.71
+9,10307,Eiffel Tower,Icons,10001,2022,4,Retirado,21045.16,35099.58,66.78
+10,10307,Eiffel Tower,Icons,10001,2022,4,Retirado,21338.86,35615.22,66.9
+11,10307,Eiffel Tower,Icons,10001,2022,4,Retirado,21417.79,31920.91,49.04
+12,10307,Eiffel Tower,Icons,10001,2022,4,Retirado,21353.18,31266.36,46.42
+13,10307,Eiffel Tower,Icons,10001,2022,4,Retirado,21042.93,32036.75,52.24
+14,10307,Eiffel Tower,Icons,10001,2022,4,Retirado,21040.3,33711.18,60.22
+15,10307,Eiffel Tower,Icons,10001,2022,4,Retirado,21173.06,32797.17,54.9
+16,10307,Eiffel Tower,Icons,10001,2022,4,Retirado,21122.9,30003.99,42.04
+17,21330,Home Alone,Ideas,3955,2021,5,Retirado,8446.07,13086.48,54.94
+18,21330,Home Alone,Ideas,3955,2021,5,Disponible,8783.65,11409.44,29.89
+19,21330,Home Alone,Ideas,3955,2021,5,Disponible,8746.49,11623.31,32.89
+20,21330,Home Alone,Ideas,3955,2021,5,Retirado,8412.09,12560.18,49.31
+21,21330,Home Alone,Ideas,3955,2021,5,Retirado,8386.62,13540.27,61.45
+22,21330,Home Alone,Ideas,3955,2021,5,Retirado,8481.49,12437.28,46.64
+23,21330,Home Alone,Ideas,3955,2021,5,Retirado,8465.02,14573.2,72.16
+24,21330,Home Alone,Ideas,3955,2021,5,Disponible,8473.84,11058.89,30.51
+25,21336,The Office,Ideas,1164,2022,4,Disponible,2573.54,2956.73,14.89
+26,21336,The Office,Ideas,1164,2022,4,Retirado,2472.58,3596.76,45.47
+27,21336,The Office,Ideas,1164,2022,4,Retirado,2444.95,3769.86,54.19
+28,21336,The Office,Ideas,1164,2022,4,Retirado,2893.61,4277.7,47.83
+29,21336,The Office,Ideas,1164,2022,4,Retirado,2860.07,4674.77,63.45
+30,21336,The Office,Ideas,1164,2022,4,Retirado,2582.56,3976.05,53.96
+31,21336,The Office,Ideas,1164,2022,4,Retirado,2763.21,4159.77,50.54
+32,21336,The Office,Ideas,1164,2022,4,Retirado,2882.05,4473.8,55.23
+33,21341,Hocus Pocus,Ideas,2316,2023,3,Disponible,5208.0,5281.66,1.41
+34,21341,Hocus Pocus,Ideas,2316,2023,3,Retirado,5172.52,7217.95,39.54
+35,21341,Hocus Pocus,Ideas,2316,2023,3,Retirado,5021.4,7792.7,55.19
+36,21341,Hocus Pocus,Ideas,2316,2023,3,Retirado,4935.99,7367.35,49.26
+37,21341,Hocus Pocus,Ideas,2316,2023,3,Retirado,5270.98,7211.31,36.81
+38,21341,Hocus Pocus,Ideas,2316,2023,3,Retirado,5025.3,7371.64,46.69
+39,21341,Hocus Pocus,Ideas,2316,2023,3,Retirado,5288.41,8272.11,56.42
+40,21341,Hocus Pocus,Ideas,2316,2023,3,Retirado,4884.78,6834.71,39.92
+41,42083,Bugatti Chiron,Technic,3599,2018,8,Disponible,7720.5,9961.36,29.02
+42,42083,Bugatti Chiron,Technic,3599,2018,8,Disponible,7996.37,10144.17,26.86
+43,42083,Bugatti Chiron,Technic,3599,2018,8,Retirado,7645.65,13657.69,78.63
+44,42083,Bugatti Chiron,Technic,3599,2018,8,Retirado,7750.11,13192.71,70.23
+45,42083,Bugatti Chiron,Technic,3599,2018,8,Disponible,7982.66,9752.18,22.17
+46,42083,Bugatti Chiron,Technic,3599,2018,8,Retirado,7884.97,14342.14,81.89
+47,42083,Bugatti Chiron,Technic,3599,2018,8,Retirado,7681.47,12199.39,58.82
+48,42083,Bugatti Chiron,Technic,3599,2018,8,Disponible,7785.14,10396.7,33.55
+49,42115,Lamborghini Sian,Technic,3696,2020,6,Disponible,7807.17,10075.3,29.05
+50,42115,Lamborghini Sian,Technic,3696,2020,6,Retirado,8251.56,13507.42,63.7
+51,42115,Lamborghini Sian,Technic,3696,2020,6,Retirado,8237.22,13665.14,65.9
+52,42115,Lamborghini Sian,Technic,3696,2020,6,Retirado,7793.13,11457.79,47.02
+53,42115,Lamborghini Sian,Technic,3696,2020,6,Retirado,7843.6,12530.96,59.76
+54,42115,Lamborghini Sian,Technic,3696,2020,6,Retirado,7931.63,12588.23,58.71
+55,42115,Lamborghini Sian,Technic,3696,2020,6,Disponible,8105.66,9185.02,13.32
+56,42115,Lamborghini Sian,Technic,3696,2020,6,Retirado,8159.62,13735.49,68.33
+57,71043,Hogwarts Castle,Harry Potter,6020,2018,8,Disponible,13008.61,16546.75,27.2
+58,71043,Hogwarts Castle,Harry Potter,6020,2018,8,Retirado,12917.36,20619.28,59.62
+59,71043,Hogwarts Castle,Harry Potter,6020,2018,8,Disponible,12946.47,18298.47,41.34
+60,71043,Hogwarts Castle,Harry Potter,6020,2018,8,Retirado,13034.61,23822.22,82.76
+61,71043,Hogwarts Castle,Harry Potter,6020,2018,8,Retirado,13073.95,21870.74,67.28
+62,71043,Hogwarts Castle,Harry Potter,6020,2018,8,Retirado,12987.4,23801.41,83.27
+63,71043,Hogwarts Castle,Harry Potter,6020,2018,8,Retirado,12658.5,20880.31,64.95
+64,71043,Hogwarts Castle,Harry Potter,6020,2018,8,Retirado,13108.05,22425.78,71.08
+65,71741,Ninjago City Gardens,Ninjago,5685,2021,5,Retirado,12357.2,18934.39,53.23
+66,71741,Ninjago City Gardens,Ninjago,5685,2021,5,Retirado,12330.02,18526.01,50.25
+67,71741,Ninjago City Gardens,Ninjago,5685,2021,5,Disponible,12221.26,13372.49,9.42
+68,71741,Ninjago City Gardens,Ninjago,5685,2021,5,Retirado,12293.3,20402.28,65.96
+69,71741,Ninjago City Gardens,Ninjago,5685,2021,5,Disponible,12095.95,16114.42,33.22
+70,71741,Ninjago City Gardens,Ninjago,5685,2021,5,Retirado,11998.04,17973.95,49.81
+71,71741,Ninjago City Gardens,Ninjago,5685,2021,5,Disponible,11952.53,14318.48,19.79
+72,71741,Ninjago City Gardens,Ninjago,5685,2021,5,Retirado,12376.41,18906.81,52.76
+73,75192,Millennium Falcon,Star Wars,7541,2017,9,Disponible,16207.68,21655.42,33.61
+74,75192,Millennium Falcon,Star Wars,7541,2017,9,Retirado,16091.66,27851.05,73.08
+75,75192,Millennium Falcon,Star Wars,7541,2017,9,Retirado,15917.58,26671.47,67.56
+76,75192,Millennium Falcon,Star Wars,7541,2017,9,Retirado,16016.91,26295.22,64.17
+77,75192,Millennium Falcon,Star Wars,7541,2017,9,Disponible,15995.62,20083.69,25.56
+78,75192,Millennium Falcon,Star Wars,7541,2017,9,Disponible,16035.15,22549.27,40.62
+79,75192,Millennium Falcon,Star Wars,7541,2017,9,Disponible,16317.4,21306.76,30.58
+80,75192,Millennium Falcon,Star Wars,7541,2017,9,Retirado,15960.24,30045.8,88.25
+81,75252,Imperial Star Destroyer,Star Wars,4784,2019,7,Retirado,10238.56,18105.93,76.84
+82,75252,Imperial Star Destroyer,Star Wars,4784,2019,7,Disponible,10359.11,14165.99,36.75
+83,75252,Imperial Star Destroyer,Star Wars,4784,2019,7,Retirado,10231.54,16913.72,65.31
+84,75252,Imperial Star Destroyer,Star Wars,4784,2019,7,Retirado,10301.81,16963.11,64.66
+85,75252,Imperial Star Destroyer,Star Wars,4784,2019,7,Retirado,10279.05,18338.19,78.4
+86,75252,Imperial Star Destroyer,Star Wars,4784,2019,7,Retirado,10183.37,16996.09,66.9
+87,75252,Imperial Star Destroyer,Star Wars,4784,2019,7,Retirado,10068.69,15274.69,51.7
+88,75252,Imperial Star Destroyer,Star Wars,4784,2019,7,Disponible,10130.07,12585.69,24.24
+89,75290,Mos Eisley Cantina,Star Wars,3187,2020,6,Retirado,6913.21,11908.0,72.25
+90,75290,Mos Eisley Cantina,Star Wars,3187,2020,6,Disponible,7083.78,8782.22,23.98
+91,75290,Mos Eisley Cantina,Star Wars,3187,2020,6,Retirado,6777.94,10993.48,62.2
+92,75290,Mos Eisley Cantina,Star Wars,3187,2020,6,Retirado,6814.51,11707.59,71.8
+93,75290,Mos Eisley Cantina,Star Wars,3187,2020,6,Disponible,7061.79,9419.0,33.38
+94,75290,Mos Eisley Cantina,Star Wars,3187,2020,6,Retirado,6858.32,10121.12,47.57
+95,75290,Mos Eisley Cantina,Star Wars,3187,2020,6,Retirado,7169.04,12154.88,69.55
+96,75290,Mos Eisley Cantina,Star Wars,3187,2020,6,Disponible,6772.61,9454.33,39.6
+97,75313,AT-AT,Star Wars,6785,2021,5,Disponible,14667.37,16475.13,12.33
+98,75313,AT-AT,Star Wars,6785,2021,5,Disponible,14405.88,19048.39,32.23
+99,75313,AT-AT,Star Wars,6785,2021,5,Disponible,14263.74,17938.41,25.76
+100,75313,AT-AT,Star Wars,6785,2021,5,Retirado,14660.18,23899.3,63.02
+101,75313,AT-AT,Star Wars,6785,2021,5,Retirado,14283.38,24403.55,70.85
+102,75313,AT-AT,Star Wars,6785,2021,5,Retirado,14629.03,22998.76,57.21
+103,75313,AT-AT,Star Wars,6785,2021,5,Retirado,14332.29,22520.0,57.13
+104,75313,AT-AT,Star Wars,6785,2021,5,Retirado,14540.32,23242.67,59.85
+105,75936,Jurassic Park T-Rex Rampage,Jurassic World,3120,2019,7,Retirado,6999.87,11943.29,70.62
+106,75936,Jurassic Park T-Rex Rampage,Jurassic World,3120,2019,7,Retirado,7013.61,11348.87,61.81
+107,75936,Jurassic Park T-Rex Rampage,Jurassic World,3120,2019,7,Retirado,6829.45,11190.93,63.86
+108,75936,Jurassic Park T-Rex Rampage,Jurassic World,3120,2019,7,Retirado,6779.66,11553.71,70.42
+109,75936,Jurassic Park T-Rex Rampage,Jurassic World,3120,2019,7,Disponible,6672.95,7809.89,17.04
+110,75936,Jurassic Park T-Rex Rampage,Jurassic World,3120,2019,7,Disponible,6607.24,8725.83,32.06
+111,75936,Jurassic Park T-Rex Rampage,Jurassic World,3120,2019,7,Retirado,6625.02,11559.65,74.48
+112,75936,Jurassic Park T-Rex Rampage,Jurassic World,3120,2019,7,Retirado,6729.94,12010.29,78.46
+113,76023,The Tumbler,DC,1869,2014,12,Retirado,4223.14,7481.77,77.16
+114,76023,The Tumbler,DC,1869,2014,12,Retirado,4018.11,7998.74,99.07
+115,76023,The Tumbler,DC,1869,2014,12,Retirado,3966.02,7627.96,92.33
+116,76023,The Tumbler,DC,1869,2014,12,Retirado,3976.22,7996.67,101.11
+117,76023,The Tumbler,DC,1869,2014,12,Retirado,4386.5,8184.28,86.58
+118,76023,The Tumbler,DC,1869,2014,12,Disponible,4240.8,6278.04,48.04
+119,76023,The Tumbler,DC,1869,2014,12,Disponible,4198.16,5901.66,40.58
+120,76023,The Tumbler,DC,1869,2014,12,Retirado,3974.17,6927.99,74.33
+121,76052,Classic TV Series Batcave,DC,2526,2016,10,Retirado,5606.55,10072.46,79.66
+122,76052,Classic TV Series Batcave,DC,2526,2016,10,Retirado,5726.68,10617.8,85.41
+123,76052,Classic TV Series Batcave,DC,2526,2016,10,Disponible,5775.08,8217.04,42.28
+124,76052,Classic TV Series Batcave,DC,2526,2016,10,Disponible,5590.47,8709.81,55.8
+125,76052,Classic TV Series Batcave,DC,2526,2016,10,Retirado,5564.26,10235.65,83.95
+126,76052,Classic TV Series Batcave,DC,2526,2016,10,Retirado,5803.92,9821.31,69.22
+127,76052,Classic TV Series Batcave,DC,2526,2016,10,Disponible,5774.43,8011.64,38.74
+128,76052,Classic TV Series Batcave,DC,2526,2016,10,Retirado,5675.22,10754.09,89.49
+129,76139,1989 Batmobile,DC,3306,2019,7,Retirado,7279.41,11727.23,61.1
+130,76139,1989 Batmobile,DC,3306,2019,7,Retirado,7303.32,12574.08,72.17
+131,76139,1989 Batmobile,DC,3306,2019,7,Disponible,7399.37,10150.75,37.18
+132,76139,1989 Batmobile,DC,3306,2019,7,Retirado,6982.35,12624.54,80.81
+133,76139,1989 Batmobile,DC,3306,2019,7,Retirado,7405.36,12032.91,62.49
+134,76139,1989 Batmobile,DC,3306,2019,7,Disponible,7072.87,8322.41,17.67
+135,76139,1989 Batmobile,DC,3306,2019,7,Retirado,7070.98,11228.58,58.8
+136,76139,1989 Batmobile,DC,3306,2019,7,Disponible,7376.65,9210.86,24.87
+137,76161,1989 Batwing,DC,2363,2020,6,Disponible,5407.13,6918.75,27.96
+138,76161,1989 Batwing,DC,2363,2020,6,Disponible,5266.26,7094.54,34.72
+139,76161,1989 Batwing,DC,2363,2020,6,Retirado,5285.02,8745.89,65.48
+140,76161,1989 Batwing,DC,2363,2020,6,Retirado,5241.11,8924.33,70.28
+141,76161,1989 Batwing,DC,2363,2020,6,Disponible,5249.39,6416.66,22.24
+142,76161,1989 Batwing,DC,2363,2020,6,Retirado,5400.92,8586.08,58.97
+143,76161,1989 Batwing,DC,2363,2020,6,Disponible,5043.94,6954.14,37.87
+144,76161,1989 Batwing,DC,2363,2020,6,Disponible,5326.27,6152.86,15.52
+145,76178,Daily Bugle,Marvel,3772,2021,5,Retirado,8349.71,13306.73,59.37
+146,76178,Daily Bugle,Marvel,3772,2021,5,Retirado,8355.26,12501.82,49.63
+147,76178,Daily Bugle,Marvel,3772,2021,5,Retirado,8153.55,12407.29,52.17
+148,76178,Daily Bugle,Marvel,3772,2021,5,Disponible,8404.74,10863.35,29.25
+149,76178,Daily Bugle,Marvel,3772,2021,5,Retirado,8333.28,13850.58,66.21
+150,76178,Daily Bugle,Marvel,3772,2021,5,Retirado,8375.87,12551.43,49.85
+151,76178,Daily Bugle,Marvel,3772,2021,5,Retirado,8391.1,12529.02,49.31
+152,76178,Daily Bugle,Marvel,3772,2021,5,Retirado,8000.76,13450.0,68.11
+153,76182,Batman Cowl,DC,410,2021,5,Disponible,966.53,1110.74,14.92
+154,76182,Batman Cowl,DC,410,2021,5,Retirado,885.05,1288.15,45.55
+155,76182,Batman Cowl,DC,410,2021,5,Retirado,1150.62,1787.89,55.38
+156,76182,Batman Cowl,DC,410,2021,5,Retirado,875.22,1290.08,47.4
+157,76182,Batman Cowl,DC,410,2021,5,Retirado,958.05,1486.49,55.16
+158,76182,Batman Cowl,DC,410,2021,5,Retirado,1105.43,1794.76,62.36
+159,76182,Batman Cowl,DC,410,2021,5,Retirado,1060.26,1708.16,61.11
+160,76182,Batman Cowl,DC,410,2021,5,Retirado,1077.36,1835.76,70.39
+161,76218,Sanctum Sanctorum,Marvel,2708,2022,4,Disponible,5808.09,7722.69,32.96
+162,76218,Sanctum Sanctorum,Marvel,2708,2022,4,Disponible,6135.19,8092.22,31.9
+163,76218,Sanctum Sanctorum,Marvel,2708,2022,4,Disponible,5734.46,6101.16,6.39
+164,76218,Sanctum Sanctorum,Marvel,2708,2022,4,Disponible,5853.91,6389.43,9.15
+165,76218,Sanctum Sanctorum,Marvel,2708,2022,4,Disponible,5693.26,7547.35,32.57
+166,76218,Sanctum Sanctorum,Marvel,2708,2022,4,Disponible,6158.39,7485.17,21.54
+167,76218,Sanctum Sanctorum,Marvel,2708,2022,4,Retirado,5933.44,8841.46,49.01
+168,76218,Sanctum Sanctorum,Marvel,2708,2022,4,Retirado,5847.37,9091.46,55.48
+169,76240,Batmobile Tumbler,DC,2049,2021,5,Retirado,4561.01,6579.14,44.25
+170,76240,Batmobile Tumbler,DC,2049,2021,5,Retirado,4682.99,7952.42,69.82
+171,76240,Batmobile Tumbler,DC,2049,2021,5,Disponible,4698.71,5900.14,25.57
+172,76240,Batmobile Tumbler,DC,2049,2021,5,Disponible,4403.95,5182.92,17.69
+173,76240,Batmobile Tumbler,DC,2049,2021,5,Retirado,4441.32,7121.75,60.35
+174,76240,Batmobile Tumbler,DC,2049,2021,5,Retirado,4613.38,7749.65,67.98
+175,76240,Batmobile Tumbler,DC,2049,2021,5,Disponible,4611.7,5621.24,21.89
+176,76240,Batmobile Tumbler,DC,2049,2021,5,Retirado,4414.55,6326.09,43.3
+177,76252,Batcave Shadow Box,DC,3981,2023,3,Retirado,8733.7,12137.83,38.98
+178,76252,Batcave Shadow Box,DC,3981,2023,3,Retirado,8617.74,13876.14,61.02
+179,76252,Batcave Shadow Box,DC,3981,2023,3,Retirado,8726.34,13284.58,52.24
+180,76252,Batcave Shadow Box,DC,3981,2023,3,Retirado,8417.66,11248.77,33.63
+181,76252,Batcave Shadow Box,DC,3981,2023,3,Disponible,8602.85,8847.42,2.84
+182,76252,Batcave Shadow Box,DC,3981,2023,3,Retirado,8370.56,11478.85,37.13
+183,76252,Batcave Shadow Box,DC,3981,2023,3,Disponible,8824.93,9353.46,5.99
+184,76252,Batcave Shadow Box,DC,3981,2023,3,Retirado,8830.24,13761.61,55.85
+185,76269,Avengers Tower,Marvel,5201,2023,3,Retirado,11059.01,17924.0,62.08
+186,76269,Avengers Tower,Marvel,5201,2023,3,Disponible,11265.33,11175.11,-0.8
+187,76269,Avengers Tower,Marvel,5201,2023,3,Disponible,11267.08,11813.53,4.85
+188,76269,Avengers Tower,Marvel,5201,2023,3,Disponible,10974.33,11722.57,6.82
+189,76269,Avengers Tower,Marvel,5201,2023,3,Disponible,11020.15,11582.57,5.1
+190,76269,Avengers Tower,Marvel,5201,2023,3,Retirado,11235.17,16492.19,46.79
+191,76269,Avengers Tower,Marvel,5201,2023,3,Retirado,11397.53,18103.38,58.84
+192,76269,Avengers Tower,Marvel,5201,2023,3,Retirado,11123.81,16597.13,49.2
+193,76271,Batman Animated Series Gotham City,DC,4210,2024,2,Disponible,9221.85,10023.74,8.7
+194,76271,Batman Animated Series Gotham City,DC,4210,2024,2,Retirado,9166.44,14308.82,56.1
+195,76271,Batman Animated Series Gotham City,DC,4210,2024,2,Disponible,9184.0,10455.03,13.84
+196,76271,Batman Animated Series Gotham City,DC,4210,2024,2,Retirado,9188.79,11890.23,29.4
+197,76271,Batman Animated Series Gotham City,DC,4210,2024,2,Retirado,8976.93,13579.57,51.27
+198,76271,Batman Animated Series Gotham City,DC,4210,2024,2,Retirado,9160.24,13300.1,45.19
+199,76271,Batman Animated Series Gotham City,DC,4210,2024,2,Retirado,8986.27,13116.94,45.97
+200,76271,Batman Animated Series Gotham City,DC,4210,2024,2,Retirado,8972.8,13334.25,48.61
